@@ -1,9 +1,10 @@
 - 👋 Hi, I’m @mervepakcan
-- 👀 I’m interested in Data Analytics 
-- 🌱 I’m currently learning Data Science
-- 💞️ I’m looking for new opportunities especially as Data engineer, Data analyst, Machine learning engineer
-- 📫 How to reach me: mervepakcan33@gmail.com
-- ⚡ Data enthusiast
+- 👀 Passionate about Data Analytics and its transformative potential
+- 🌱 Currently expanding my skills in Data Science
+- 🚀 Actively seeking opportunities as a Data Engineer, Data Analyst, or Machine Learning Engineer
+- 📫 Reach out to me: mervepakcan33@gmail.com
+- 🔥 Data Enthusiast
+
 
 <!---
 mervepakcan/mervepakcan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
