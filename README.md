@@ -1,4 +1,4 @@
-![Banner](./mervepakcan/mervepakcan/banner.png)
+![Banner](./banner.png)
 
 - 👋 Hi, I’m @mervepakcan
 - 👀 Passionate about Data Analytics and its transformative potential
