@@ -1,5 +1,4 @@
-<img src="./banner.png" alt="Banner" height="400" />
-
+<img src="./banner.png" alt="Banner" style="width: 100%; height: 300px; object-fit: cover;">
 
 - 👋 Hi, I’m @mervepakcan
 - 👀 Passionate about Data Analytics and its transformative potential
