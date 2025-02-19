@@ -1,3 +1,5 @@
+![Banner](./mervepakcan/mervepakcan/banner.png)
+
 - 👋 Hi, I’m @mervepakcan
 - 👀 Passionate about Data Analytics and its transformative potential
 - 🚀 Currently expanding my skills in Data Science
