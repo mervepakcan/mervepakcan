@@ -1,4 +1,5 @@
-![Banner](./banner.png)
+<img src="./banner.png" alt="Banner" width="600"/>
+
 
 - 👋 Hi, I’m @mervepakcan
 - 👀 Passionate about Data Analytics and its transformative potential
