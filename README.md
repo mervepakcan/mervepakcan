@@ -1,4 +1,4 @@
-<img src="./banner.png" alt="Banner" width="600"/>
+<img src="./banner.png" alt="Banner" width="900"/>
 
 
 - 👋 Hi, I’m @mervepakcan
