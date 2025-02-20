@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @mervepakcan
 - 👀 Passionate about Data Analytics and its transformative potential
-- 🚀 Currently expanding my skills in Data Science
+- 🚀 Currently expanding my skills in Data Science and Machine Learning 
 - 📫 Reach out to me: mervepakcan33@gmail.com
 - 🔥 Data Enthusiast
 
