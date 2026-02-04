@@ -3,7 +3,7 @@
 - 👋 Hi, I’m @mervepakcan
 - 👀 Passionate about **Data Analytics, Python, and problem-solving**
 - 🚀 Currently expanding my skills in **Data Structures, Algorithms**
-- 🔍 Actively seeking opportunities as a **Software Engineer, Data Engineer, or ML Engineer**
+- 🔍 Actively seeking opportunities as a **Software Engineer, Data Scientist, or ML Engineer**
 - 📫 Reach out to me: mervepakcan33@gmail.com
 - 🔥 Data & Coding Enthusiast
 
