@@ -5,6 +5,7 @@
 - 🚀 Currently expanding my skills in **Data Structures, Algorithms**
 - 🔍 Actively seeking opportunities as a **Software Engineer, Data Scientist, or ML Engineer**
 - 📫 Reach out to me: mervepakcan33@gmail.com
+- 🧠🤝 Focusing on Decision Support Systems & Human-AI Collaboration.
 - 🔥 Data & Coding Enthusiast
 
 
