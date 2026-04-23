@@ -4,7 +4,7 @@
 - 🧠🤝 Focusing on Decision Support Systems & Human-AI Collaboration.
 - 👀 Passionate about **Data Analytics, Python, and problem-solving**
 - 🚀 Currently expanding my skills in **Data Structures, Algorithms**
-- 🔍 Actively seeking opportunities as a **Software Engineer, Data Scientist, or ML Engineer**
+- 🔍 Actively seeking opportunities as a **Research Scientist,AI / ML Engineer**
 - 📫 Reach out to me: mervepakcan33@gmail.com
 - 🔥 Data & Coding Enthusiast
 
