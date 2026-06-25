@@ -2,9 +2,9 @@
 
 - 👋 Hi, I’m @mervepakcan
 - 🧠🤝 Focusing on Decision Support Systems & Human-AI Collaboration.
-- 👀 Passionate about **Data Analytics, Python, and problem-solving**
+- 👀 Passionate about **Machine learning, Python, and problem-solving**
 - 🚀 Currently expanding my skills in **Data Structures, Algorithms**
-- 🔍 Actively seeking opportunities as a **Research Scientist, AI / ML Engineer**
+- 🔍 Actively seeking opportunities as a **Researcher, AI / ML Engineer**
 - 📫 Reach out to me: mervepakcan33@gmail.com
 - 🔥 Data & Coding Enthusiast
 
